@@ -6,7 +6,7 @@ A quick & dirty tool to convert an annotated dialogue text file into an MP3 usin
 
 - **ffmpeg**
 - **Python 3.9+**
-- **uv** – A fast Python project manager  
+- **[uv](https://github.com/astral-sh/uv)** – A Python project manager  
   - **macOS/Linux:**  
     ```bash
     curl -LsSf https://astral.sh/uv/install.sh | sh
@@ -20,8 +20,8 @@ A quick & dirty tool to convert an annotated dialogue text file into an MP3 usin
 
 1. **Clone the repo:**
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/Pesky01/ElevenLabs-ScriptReader.git
+   cd ElevenLabs-ScriptReader
    ```
 
 2. **Set your API key:**  
