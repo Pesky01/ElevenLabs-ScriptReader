@@ -1,6 +1,6 @@
 # ScriptReader
 
-A quick & dirty tool to convert an annotated dialogue text file into an MP3 using the ElevenLabs API.
+A small program to convert an annotated script text file into an MP3 using the ElevenLabs API.
 
 ## Requirements
 
